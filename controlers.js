@@ -15,5 +15,3 @@ app.config(function($routeProvider) {
     template : "<b>Opção inválida!</b>"
   });
 });
-
-
